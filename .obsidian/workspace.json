@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рефлексия/06.03.2026.md",
+                "file": "Винда/diskpart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06.03.2026"
+              "title": "diskpart"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -189,19 +189,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "f2d9aca36474abfa",
+  "active": "08307b1b852d3813",
   "lastOpenFiles": [
-    "Винда/WinGet.md",
+    "Photos/Pasted image 20260306233514.png",
+    "Photos/Pasted image 20260306233436.png",
+    "Проект/Менеджер паролей/Спринт 4/To-Do.md",
+    "Проект/Менеджер паролей/Спринт 4/Ретроспектива.md",
+    "Проект/Менеджер паролей/Спринт 4",
     "Рефлексия/06.03.2026.md",
+    "Винда/WinGet.md",
     "Рефлексия/05.03.2026.md",
     "Рефлексия/02.03.2026.md"
   ]
