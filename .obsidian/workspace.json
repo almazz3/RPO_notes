@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рефлексия/06.03.2026.md",
+                "file": "Информатика/Алгоритмы сортировки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06.03.2026"
+              "title": "Алгоритмы сортировки"
             }
           }
         ],
@@ -198,10 +198,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f2d9aca36474abfa",
+  "active": "08307b1b852d3813",
   "lastOpenFiles": [
-    "Винда/WinGet.md",
+    "Photos/Pasted image 20260310104921.png",
+    "Photos/Pasted image 20260310104900.png",
+    "Photos/Pasted image 20260310104836.png",
     "Рефлексия/06.03.2026.md",
+    "Информатика/Алгоритмы сортировки.md",
+    "Винда/WinGet.md",
     "Рефлексия/05.03.2026.md",
     "Рефлексия/02.03.2026.md"
   ]
