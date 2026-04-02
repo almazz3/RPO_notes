@@ -11,12 +11,14 @@
             "id": "fe5a0d581b107b97",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Photos/Pasted image 20260402110655.png"
+                "file": "Рефлексия/2.04.2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260402110655"
+              "icon": "lucide-file",
+              "title": "2.04.2026"
             }
           }
         ]
@@ -181,12 +183,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5ec6ac588ba120fb",
+  "active": "fe5a0d581b107b97",
   "lastOpenFiles": [
+    "код/Сортировка слиянием.md",
+    "Рефлексия/2.04.2026.md",
+    "код/Сортировка вставками.md",
     "код/Сортировка пузырьком.md",
     "Photos/Pasted image 20260402110655.png",
-    "код/Сортировка слиянием.md",
-    "код/Сортировка вставками.md",
     "Photos/Pasted image 20260402110537.png",
     "код/Число Фибоначчи в Pascal.md",
     "Photos/Pasted image 20260402110314.png",
