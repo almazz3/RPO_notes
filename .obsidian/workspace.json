@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Винда/Open Server Panel.md",
+                "file": "Информатика/Файлы Эпштейна.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open Server Panel"
+              "title": "Файлы Эпштейна"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "fe5a0d581b107b97",
   "lastOpenFiles": [
-    "Рефлексия/2.04.2026.md",
     "Винда/Open Server Panel.md",
+    "Информатика/Файлы Эпштейна.md",
+    "Рефлексия/2.04.2026.md",
     "код/Сортировка слиянием.md",
     "код/Сортировка вставками.md",
     "код/Сортировка пузырьком.md",
