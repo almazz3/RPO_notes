@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Введение в Python/Roadmap №2.md",
+                "file": "Винда/Удалённый доступ к ОС Windows. Протокол RDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap №2"
+              "title": "Удалённый доступ к ОС Windows. Протокол RDP"
             }
           }
         ]
@@ -183,10 +183,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ce6900efa692324b",
+  "active": "2df3e8a39262a3cc",
   "lastOpenFiles": [
-    "Введение в Python/Roadmap №1.md",
+    "Photos/Pasted image 20260604125535.png",
+    "Photos/Pasted image 20260604125438.png",
     "Введение в Python/Roadmap №2.md",
+    "Винда/Удалённый доступ к ОС Windows. Протокол RDP.md",
+    "Введение в Python/Roadmap №1.md",
     "код/Test.py.md"
   ]
 }
