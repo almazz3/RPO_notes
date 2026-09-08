@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"8aeadc2241868cf3","x":-71,"y":120,"width":593,"height":100,"type":"group"},
+		{"id":"11e8406f8b67ffbc","type":"group","x":-380,"y":-180,"width":320,"height":120,"color":"2"},
+		{"id":"50b4f1f0a85cc757","type":"group","x":180,"y":-180,"width":320,"height":120,"color":"2"},
+		{"id":"a2380263c69ffce1","type":"text","text":"ПК 1","x":-360,"y":-320,"width":80,"height":60,"color":"4"},
+		{"id":"ae7446d0e490c19e","type":"text","text":"ПК 2","x":400,"y":-320,"width":92,"height":60,"color":"4"},
+		{"id":"58388274fb9d54f4","type":"text","text":"Прикладная программа (клиентское приложение)","x":-360,"y":-160,"width":280,"height":80},
+		{"id":"b574fa889f25a47b","type":"text","text":"Прикладная программа\n(клиентское приложение)","x":199,"y":-160,"width":281,"height":80},
+		{"id":"b552002a005c72d1","type":"text","text":"Данные (БД)","x":-51,"y":140,"width":250,"height":60,"color":"5"},
+		{"id":"42091e814a6c534b","type":"text","text":"Сервер","x":-428,"y":140,"width":250,"height":60,"color":"6"},
+		{"id":"a2cdc130a08b1782","type":"text","text":"СУБД","x":252,"y":140,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"14941fe610da326e","fromNode":"a2380263c69ffce1","fromSide":"bottom","toNode":"11e8406f8b67ffbc","toSide":"top"},
+		{"id":"cc43b9d0b7ee411b","fromNode":"ae7446d0e490c19e","fromSide":"bottom","toNode":"50b4f1f0a85cc757","toSide":"top"},
+		{"id":"01e550c0c6937a61","fromNode":"a2cdc130a08b1782","fromSide":"left","toNode":"b552002a005c72d1","toSide":"right"},
+		{"id":"30555280172aae74","fromNode":"b552002a005c72d1","fromSide":"right","toNode":"a2cdc130a08b1782","toSide":"left"},
+		{"id":"ec4ec7b27329354f","fromNode":"42091e814a6c534b","fromSide":"right","toNode":"8aeadc2241868cf3","toSide":"left"},
+		{"id":"b7cd7320beacd5e3","fromNode":"11e8406f8b67ffbc","fromSide":"bottom","toNode":"8aeadc2241868cf3","toSide":"top"}
+	]
+}
